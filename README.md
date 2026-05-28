@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Vinura 👋
 
-<!--
-**vinura-amarasinghe/vinura-amarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Environmental Scientist based in Halifax, Nova Scotia. BSc in Environmental Science from Acadia University (Biology minor, 2026), with pre-graduation field and research experience in environmental monitoring and internationally funded research.
 
-Here are some ideas to get you started:
+I use this GitHub to publish data analysis projects focused on Atlantic Canadian environmental issues — primarily in R, with some QGIS and ArcGIS work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working with
+
+R · tidyverse · ggplot2 · sf · QGIS · ArcGIS · Quarto
+
+### Currently exploring
+
+`tidyhydat` for Canadian hydrometric data · `weathercan` for ECCC climate records · Phase I ESA workflows
+
+📧 vinuraamarasinghe@gmail.com · 📍 Halifax, NS
